@@ -9,6 +9,6 @@ public class FirstClass {
     public void test(){
         int i=10;
         i++;
-        System.out.println(i);
+        System.out.println(i);//打印i的值
     }
 }
